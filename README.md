@@ -18,9 +18,15 @@ This project is a responsive blog template designed to cover Food, News, and Tec
 
 # Topics Covered
 
-**Food:** Recipes, restaurant reviews, cooking tips, and food trends.
+**Food:** Recipes, restaurant reviews, cooking tips, and food trends.(🍕, 🍔, 🍣, 🍩)
 
 **News:** Current events, breaking news, and updates on various topics like politics, environment, and health.
 
 **Technology:** Innovations, product reviews, coding tutorials, and insights into the tech industry.
+
+# Screenshots
+![Image](https://github.com/user-attachments/assets/deb84f22-c622-4641-a0cc-b4e187a32af0)
+
+![Image](https://github.com/user-attachments/assets/df1255f7-2f2c-40e6-8f2d-403ab745a8a4)
+
 
